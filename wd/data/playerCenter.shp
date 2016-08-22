@@ -1,0 +1,6 @@
+{
+	"shaders": ["positionInUniform.vsh", "fullCircle.fsh"],
+	"attributes": {
+		"uv": 0
+	}
+}

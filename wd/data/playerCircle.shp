@@ -1,0 +1,6 @@
+{
+	"shaders": ["positionInUniform.vsh", "edgeRing.fsh"],
+	"attributes": {
+		"uv": 0
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"shaders": ["positionInBuffer.vsh", "edgeCircle.fsh"],
+	"attributes": {
+		"uv": 0
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"shaders": ["quad.vsh", "background.fsh"],
+	"attributes": {
+		"position": 0,
+		"uv": 1
+	}
+}
